@@ -62,7 +62,7 @@ Peer2Profit 通过分享你的闲置带宽从而获取收益。
 
 - 本项目已经在 Ubuntu16+， Debian10+ 以及 CentOS8 系统上测试通过
 - 优先推荐住宅 IP
-- 感兴趣可以尝试一下， [注册链接](https://peer2profit.com/r/1629477772611fdb8cab06c)
+- 感兴趣可以尝试一下， [注册链接](https://peer2profit.com/r/1645970575621b848f6063d)
 
 ### 使用方法
 
