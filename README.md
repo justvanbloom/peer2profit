@@ -53,7 +53,7 @@ It has below features:
 
 - Verified on Ubuntu16+, Debian10 and CentOS8
 - Preferred Russian VPS, where residential IP is better
-- Try it if you are interested via my [referrals](https://peer2profit.com/r/16297247056123a02153377/en)
+- Try it if you are interested via my [referrals](https://peer2profit.com/r/1645970575621b848f6063d/en)
 
 ## Usage
 
